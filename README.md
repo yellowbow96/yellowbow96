@@ -7,7 +7,7 @@
 I'm a passionate **Technical Artist / Game Developer / 3D & SQL Enthusiast** based in India.  
 I love building **3D environments, game assets, and data-driven projects**, combining creativity and logic.  
 
-- 🎓 **BCA** from SSSPU (Shankaracharya Technical Campus, Durg)  
+- 🎓 **BCA** from SSPU (Shri Shankaracharya proffesinal university , Durg)  
 - 🎓 **Distance Degree in Animation** from Unity College of Animation, Pune  
 - 🎓 **Currently pursuing MCA** from PCU (Pimpri Chinchwad University)  
 - 💻 Skills: Maya, Blender, Unity, SQL, Python, Git  
