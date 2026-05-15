@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Piyush Singh</h1>
-<h3 align="center">Technical Artist | Game Developer | Performance-Focused Engineer</h3>
+# Hi 👋 I'm Piyush Singh
+
+### 🏎 Technical Artist • Real-Time Systems Enthusiast • Performance-Driven Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PiyushSingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -9,35 +10,59 @@
 
 ## 👨‍💻 About Me
 
-🎮 Passionate about **Game Development & 3D Environment Design**  
-🧠 I combine **creativity + engineering logic**  
-🏎️ Inspired by performance engineering & real-time optimization  
-🔗 Exploring decentralized systems & digital ownership  
+I’m a multidisciplinary developer passionate about blending:
 
-🎓 BCA – Shri Shankaracharya Professional University, Durg  
-🎓 Distance Degree in Animation – Unity College of Animation, Pune  
-🎓 Currently pursuing MCA – Pimpri Chinchwad University  
+* 🎮 Real-time graphics & game development
+* ⚙️ Performance engineering
+* 🧠 Technical problem-solving
+* 📊 Data-driven systems
+* 🔗 Emerging technologies & digital ecosystems
+
+My work combines engineering precision with creative workflows — inspired heavily by motorsport telemetry, optimization culture, and high-performance system design.
+
+🎓 BCA – Shri Shankaracharya Professional University, Durg
+🎓 Animation Studies – Unity College of Animation, Pune
+🎓 MCA – Pimpri Chinchwad University
 
 ---
 
-## 🏎️ Formula 1 & Performance Engineering Mindset
+## 🏁 Engineering Mindset
 
-I am deeply inspired by Formula 1 engineering philosophy — precision, aerodynamics, telemetry, and performance optimization.
+Inspired by Formula 1 engineering philosophy:
 
-- 📊 Fascinated by race data analytics & telemetry systems  
-- ⚙️ Interested in simulation, physics & real-time optimization  
-- 🧠 Applying F1-style performance thinking to game engines  
-- 🔧 Focused on pipeline efficiency & rendering performance  
+* 📊 Telemetry & performance analytics
+* ⚙️ Real-time optimization systems
+* 🧠 Simulation & technical workflows
+* 🔧 Pipeline efficiency & rendering optimization
 
-> “Performance is not luck. It’s engineered.” 🏁  
+> “Performance is engineered.” 🏎️
 
-Inspired by elite engineering culture seen in teams like Mercedes-AMG Petronas and Red Bull Racing.
+---
+
+## 🚀 Featured Projects
+
+### ⚡ ERP-AI
+
+Enterprise AI assistant using Retrieval-Augmented Generation (RAG) architecture.
+
+### 🛰 SectorX Data Engine
+
+Custom Node.js intelligent data harvesting & monitoring platform.
+
+### 🏁 GT Telemetry Dashboard
+
+Motorsport-inspired telemetry visualization and analytics system.
+
+### 🔧 Smart Motorcycle Monitoring System
+
+Arduino-based dual battery telemetry & monitoring display for Yamaha FZ-X.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🎮 3D & Game Development
+### 🎮 3D & Real-Time Development
+
 <p>
   <img src="https://img.shields.io/badge/Maya-00ADEF?style=for-the-badge&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -45,33 +70,32 @@ Inspired by elite engineering culture seen in teams like Mercedes-AMG Petronas a
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
-### 💻 Programming & Databases
+### 💻 Backend & Data Systems
+
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🔗 Blockchain & Web3 Exploration
+### 🔗 Web3 & Emerging Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
-- 🪙 Experimented with smart contract logic  
-- 🔐 Studied decentralized transaction models  
-- 🎮 Exploring blockchain integration in game economies  
-- 📦 Researching NFT-based digital asset ownership  
-
 ---
 
-## 🚀 Current Focus
+## 🔥 Current Focus
 
-- 🔥 Advanced Game Animation Workflows  
-- ⚙️ Performance Optimization in Real-Time Engines  
-- 🤖 AI-assisted 3D Pipelines  
-- 🔗 Game + Blockchain ecosystem concepts  
+* Real-Time Performance Optimization
+* AI-Assisted 3D Pipelines
+* Motorsport Telemetry Interfaces
+* Data Engineering & Automation Systems
+* Technical Art & Pipeline Workflows
 
 ---
 
@@ -84,14 +108,10 @@ Inspired by elite engineering culture seen in teams like Mercedes-AMG Petronas a
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🌐 Portfolio
 
-I believe in:
-
-- Performance-first thinking  
-- Clean pipelines  
-- Data-driven decisions  
-- Creative + technical balance  
+🚀 Portfolio Website:
+https://protfolio-1-ruby.vercel.app/
 
 ---
 
@@ -101,14 +121,12 @@ I believe in:
   <a href="https://linkedin.com/in/PiyushSingh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+
+  <a href="https://protfolio-1-ruby.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Building performance-focused systems, real-time experiences, and technical pipelines.
